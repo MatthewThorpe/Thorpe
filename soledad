@@ -1,0 +1,2147 @@
+   <!DOCTYPE html>
+<html lang="en-US" > 
+  <head>  
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Soledad Install</title>
+  <link rel='shortcut icon' href='' />			<!-- Google Analytics opt-out snippet added by Site Kit -->
+			<script type="text/javascript">
+window["ga-disable-UA-245249684-1"] = true;
+</script>
+			<script type="text/javascript">
+window["ga-disable-G-WBD9YRK97D"] = true;
+</script>
+			<!-- End Google Analytics opt-out snippet added by Site Kit -->
+			<title>Soledad Install &#8211; Tarotpsychic</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Tarotpsychic &raquo; Feed" href="https://tarotpsychic.club/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tarotpsychic &raquo; Comments Feed" href="https://tarotpsychic.club/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tarotpsychic.club\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='https://tarotpsychic.club/wp-includes/css/dashicons.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://tarotpsychic.club/wp-includes/css/admin-bar.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://tarotpsychic.club/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 14px;--wp--preset--font-size--huge: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='penci-fonts-css'  href='https://fonts.googleapis.com/css?family=Arvo%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CCrimson+Text%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%26subset%3Dlatin%2Ccyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext&#038;display=swap&#038;ver=8.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-main-style-css'  href='https://tarotpsychic.club/wp-content/themes/soledad/main.css?ver=8.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='penci-font-awesomeold-css'  href='https://tarotpsychic.club/wp-content/themes/soledad/css/font-awesome.4.7.0.swap.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='penci_icon-css'  href='https://tarotpsychic.club/wp-content/themes/soledad/css/penci-icon.css?ver=8.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='penci_style-css'  href='https://tarotpsychic.club/wp-content/themes/soledad/style.css?ver=8.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='penci_social_counter-css'  href='https://tarotpsychic.club/wp-content/themes/soledad/css/social-counter.css?ver=8.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='googlesitekit-fonts-css'  href='https://fonts.googleapis.com/css?family=Google+Sans+Text:400,500|Google+Sans+Display:400,500,700&#038;subset=latin-ext&#038;display=fallback' type='text/css' media='all' />
+<link rel='stylesheet' id='googlesitekit-adminbar-css-css'  href='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/css/googlesitekit-adminbar-css-492416c00c3464717d4b.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-245249684-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["tarotpsychic.club"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-245249684-1", {"anonymize_ip":true});
+gtag("config", "G-WBD9YRK97D");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://tarotpsychic.club/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tarotpsychic.club/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tarotpsychic.club/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="https://tarotpsychic.club/soledadinstall/" />
+<link rel='shortlink' href='https://tarotpsychic.club/?p=1741' />
+<link rel="alternate" type="application/json+oembed" href="https://tarotpsychic.club/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftarotpsychic.club%2Fsoledadinstall%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://tarotpsychic.club/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftarotpsychic.club%2Fsoledadinstall%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.85.0" />			<style type="text/css">
+				#wpadminbar ul li#wp-admin-bar-siteground-wizard-dashboard { padding-top: 12px; }
+			</style>
+		<style id="penci-custom-style" type="text/css">body{ --pcbg-cl: #fff; --pctext-cl: #313131; --pcborder-cl: #dedede; --pcheading-cl: #313131; --pcmeta-cl: #888888; --pcaccent-cl: #6eb48c; --pcbody-font: 'PT Serif', serif; --pchead-font: 'Raleway', sans-serif; --pchead-wei: bold; } .single.penci-body-single-style-5 #header, .single.penci-body-single-style-6 #header, .single.penci-body-single-style-10 #header, .single.penci-body-single-style-5 .pc-wrapbuilder-header, .single.penci-body-single-style-6 .pc-wrapbuilder-header, .single.penci-body-single-style-10 .pc-wrapbuilder-header { --pchd-mg: 40px; } .fluid-width-video-wrapper > div { position: absolute; left: 0; right: 0; top: 0; width: 100%; height: 100%; } .yt-video-place { position: relative; text-align: center; } .yt-video-place.embed-responsive .start-video { display: block; top: 0; left: 0; bottom: 0; right: 0; position: absolute; transform: none; } .yt-video-place.embed-responsive .start-video img { margin: 0; padding: 0; top: 50%; display: inline-block; position: absolute; left: 50%; transform: translate(-50%, -50%); width: 68px; height: auto; } body { --pchead-font: 'Arvo', serif; } body { --pcbody-font: 'Crimson Text', serif; } p{ line-height: 1.8; } .header-slogan .header-slogan-text{ font-family: 'Crimson Text', serif; } .penci-hide-tagupdated{ display: none !important; } .header-slogan .header-slogan-text { font-style:normal; } .header-slogan .header-slogan-text { font-weight:normal; } .header-slogan .header-slogan-text { font-size:15px; } body, .widget ul li a{ font-size: 16px; } .widget ul li, .post-entry, p, .post-entry p { font-size: 16px; line-height: 1.8; } body { --pchead-wei: 700; } .featured-area .penci-image-holder, .featured-area .penci-slider4-overlay, .featured-area .penci-slide-overlay .overlay-link, .featured-style-29 .featured-slider-overlay, .penci-slider38-overlay{ border-radius: ; -webkit-border-radius: ; } .penci-featured-content-right:before{ border-top-right-radius: ; border-bottom-right-radius: ; } .penci-flat-overlay .penci-slide-overlay .penci-mag-featured-content:before{ border-bottom-left-radius: ; border-bottom-right-radius: ; } .container-single .post-image{ border-radius: ; -webkit-border-radius: ; } .penci-mega-thumbnail .penci-image-holder{ border-radius: ; -webkit-border-radius: ; } body.penci-body-boxed { background-color:#e8e2da; } .wp-caption p.wp-caption-text, .penci-featured-caption { font-style: normal; } body{ --pcbg-cl: #e8e2da; } .penci-single-style-7:not( .penci-single-pheader-noimg ).penci_sidebar #main article.post, .penci-single-style-3:not( .penci-single-pheader-noimg ).penci_sidebar #main article.post { background-color: var(--pcbg-cl); } @media only screen and (max-width: 767px){ .standard-post-special_wrapper { background: var(--pcbg-cl); } } .wrapper-boxed, .wrapper-boxed.enable-boxed, .home-pupular-posts-title span, .penci-post-box-meta.penci-post-box-grid .penci-post-share-box, .penci-pagination.penci-ajax-more a.penci-ajax-more-button, .woocommerce .woocommerce-product-search input[type="search"], .overlay-post-box-meta, .widget ul.side-newsfeed li.featured-news2 .side-item .side-item-text, .widget select, .widget select option, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message, #penci-demobar, #penci-demobar .style-toggle, .grid-overlay-meta .grid-header-box, .header-standard.standard-overlay-meta{ background-color: var(--pcbg-cl); } .penci-grid .list-post.list-boxed-post .item > .thumbnail:before{ border-right-color: var(--pcbg-cl); } .penci-grid .list-post.list-boxed-post:nth-of-type(2n+2) .item > .thumbnail:before{ border-left-color: var(--pcbg-cl); } body{ --pcborder-cl: #dddddd; } #main #bbpress-forums .bbp-login-form fieldset.bbp-form select, #main #bbpress-forums .bbp-login-form .bbp-form input[type="password"], #main #bbpress-forums .bbp-login-form .bbp-form input[type="text"], .widget ul li, .grid-mixed, .penci-post-box-meta, .penci-pagination.penci-ajax-more a.penci-ajax-more-button, .widget-social a i, .penci-home-popular-posts, .header-header-1.has-bottom-line, .header-header-4.has-bottom-line, .header-header-7.has-bottom-line, .container-single .post-entry .post-tags a,.tags-share-box.tags-share-box-2_3,.tags-share-box.tags-share-box-top, .tags-share-box, .post-author, .post-pagination, .post-related, .post-comments .post-title-box, .comments .comment, #respond textarea, .wpcf7 textarea, #respond input, div.wpforms-container .wpforms-form.wpforms-form input[type=date], div.wpforms-container .wpforms-form.wpforms-form input[type=datetime], div.wpforms-container .wpforms-form.wpforms-form input[type=datetime-local], div.wpforms-container .wpforms-form.wpforms-form input[type=email], div.wpforms-container .wpforms-form.wpforms-form input[type=month], div.wpforms-container .wpforms-form.wpforms-form input[type=number], div.wpforms-container .wpforms-form.wpforms-form input[type=password], div.wpforms-container .wpforms-form.wpforms-form input[type=range], div.wpforms-container .wpforms-form.wpforms-form input[type=search], div.wpforms-container .wpforms-form.wpforms-form input[type=tel], div.wpforms-container .wpforms-form.wpforms-form input[type=text], div.wpforms-container .wpforms-form.wpforms-form input[type=time], div.wpforms-container .wpforms-form.wpforms-form input[type=url], div.wpforms-container .wpforms-form.wpforms-form input[type=week], div.wpforms-container .wpforms-form.wpforms-form select, div.wpforms-container .wpforms-form.wpforms-form textarea, .wpcf7 input, .widget_wysija input, #respond h3, form.pc-searchform input.search-input, .post-password-form input[type="text"], .post-password-form input[type="email"], .post-password-form input[type="password"], .post-password-form input[type="number"], .penci-recipe, .penci-recipe-heading, .penci-recipe-ingredients, .penci-recipe-notes, .penci-pagination ul.page-numbers li span, .penci-pagination ul.page-numbers li a, #comments_pagination span, #comments_pagination a, body.author .post-author, .tags-share-box.hide-tags.page-share, .penci-grid li.list-post, .penci-grid li.list-boxed-post-2 .content-boxed-2, .home-featured-cat-content .mag-post-box, .home-featured-cat-content.style-2 .mag-post-box.first-post, .home-featured-cat-content.style-10 .mag-post-box.first-post, .widget select, .widget ul ul, .widget input[type="text"], .widget input[type="email"], .widget input[type="date"], .widget input[type="number"], .widget input[type="search"], .widget .tagcloud a, #wp-calendar tbody td, .woocommerce div.product .entry-summary div[itemprop="description"] td, .woocommerce div.product .entry-summary div[itemprop="description"] th, .woocommerce div.product .woocommerce-tabs #tab-description td, .woocommerce div.product .woocommerce-tabs #tab-description th, .woocommerce-product-details__short-description td, th, .woocommerce ul.cart_list li, .woocommerce ul.product_list_widget li, .woocommerce .widget_shopping_cart .total, .woocommerce.widget_shopping_cart .total, .woocommerce .woocommerce-product-search input[type="search"], .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span, .woocommerce div.product .product_meta, .woocommerce div.product .woocommerce-tabs ul.tabs, .woocommerce div.product .related > h2, .woocommerce div.product .upsells > h2, .woocommerce #reviews #comments ol.commentlist li .comment-text, .woocommerce table.shop_table td, .post-entry td, .post-entry th, #add_payment_method .cart-collaterals .cart_totals tr td, #add_payment_method .cart-collaterals .cart_totals tr th, .woocommerce-cart .cart-collaterals .cart_totals tr td, .woocommerce-cart .cart-collaterals .cart_totals tr th, .woocommerce-checkout .cart-collaterals .cart_totals tr td, .woocommerce-checkout .cart-collaterals .cart_totals tr th, .woocommerce-cart .cart-collaterals .cart_totals table, .woocommerce-cart table.cart td.actions .coupon .input-text, .woocommerce table.shop_table a.remove, .woocommerce form .form-row .input-text, .woocommerce-page form .form-row .input-text, .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message, .woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register, .woocommerce form.checkout table.shop_table, .woocommerce-checkout #payment ul.payment_methods, .post-entry table, .wrapper-penci-review, .penci-review-container.penci-review-count, #penci-demobar .style-toggle, #widget-area, .post-entry hr, .wpb_text_column hr, #buddypress .dir-search input[type=search], #buddypress .dir-search input[type=text], #buddypress .groups-members-search input[type=search], #buddypress .groups-members-search input[type=text], #buddypress ul.item-list, #buddypress .profile[role=main], #buddypress select, #buddypress div.pagination .pagination-links span, #buddypress div.pagination .pagination-links a, #buddypress div.pagination .pag-count, #buddypress div.pagination .pagination-links a:hover, #buddypress ul.item-list li, #buddypress table.forum tr td.label, #buddypress table.messages-notices tr td.label, #buddypress table.notifications tr td.label, #buddypress table.notifications-settings tr td.label, #buddypress table.profile-fields tr td.label, #buddypress table.wp-profile-fields tr td.label, #buddypress table.profile-fields:last-child, #buddypress form#whats-new-form textarea, #buddypress .standard-form input[type=text], #buddypress .standard-form input[type=color], #buddypress .standard-form input[type=date], #buddypress .standard-form input[type=datetime], #buddypress .standard-form input[type=datetime-local], #buddypress .standard-form input[type=email], #buddypress .standard-form input[type=month], #buddypress .standard-form input[type=number], #buddypress .standard-form input[type=range], #buddypress .standard-form input[type=search], #buddypress .standard-form input[type=password], #buddypress .standard-form input[type=tel], #buddypress .standard-form input[type=time], #buddypress .standard-form input[type=url], #buddypress .standard-form input[type=week], .bp-avatar-nav ul, .bp-avatar-nav ul.avatar-nav-items li.current, #bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic, #bbpress-forums li.bbp-footer, .bbp-pagination-links a, .bbp-pagination-links span.current, .wrapper-boxed .bbp-pagination-links a:hover, .wrapper-boxed .bbp-pagination-links span.current, #buddypress .standard-form select, #buddypress .standard-form input[type=password], #buddypress .activity-list li.load-more a, #buddypress .activity-list li.load-newest a, #buddypress ul.button-nav li a, #buddypress div.generic-button a, #buddypress .comment-reply-link, #bbpress-forums div.bbp-template-notice.info, #bbpress-forums #bbp-search-form #bbp_search, #bbpress-forums .bbp-forums-list, #bbpress-forums #bbp_topic_title, #bbpress-forums #bbp_topic_tags, #bbpress-forums .wp-editor-container, .widget_display_stats dd, .widget_display_stats dt, div.bbp-forum-header, div.bbp-topic-header, div.bbp-reply-header, .widget input[type="text"], .widget input[type="email"], .widget input[type="date"], .widget input[type="number"], .widget input[type="search"], .widget input[type="password"], blockquote.wp-block-quote, .post-entry blockquote.wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), .post-entry pre, .wp-block-pullquote:not(.is-style-solid-color), .post-entry hr.wp-block-separator, .wp-block-separator, .wp-block-latest-posts, .wp-block-yoast-how-to-block ol.schema-how-to-steps, .wp-block-yoast-how-to-block ol.schema-how-to-steps li, .wp-block-yoast-faq-block .schema-faq-section, .post-entry .wp-block-quote, .wpb_text_column .wp-block-quote, .woocommerce .page-description .wp-block-quote, .wp-block-search .wp-block-search__input{ border-color: var(--pcborder-cl); } .penci-recipe-index-wrap h4.recipe-index-heading > span:before, .penci-recipe-index-wrap h4.recipe-index-heading > span:after{ border-color: var(--pcborder-cl); opacity: 1; } .tags-share-box .single-comment-o:after, .post-share a.penci-post-like:after{ background-color: var(--pcborder-cl); } .penci-grid .list-post.list-boxed-post{ border-color: var(--pcborder-cl) !important; } .penci-post-box-meta.penci-post-box-grid:before, .woocommerce .widget_price_filter .ui-slider .ui-slider-range{ background-color: var(--pcborder-cl); } .penci-pagination.penci-ajax-more a.penci-ajax-more-button.loading-posts{ border-color: var(--pcborder-cl) !important; } .penci-vernav-enable .penci-menu-hbg{ box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; } .penci-vernav-enable.penci-vernav-poleft .penci-menu-hbg{ border-right: 1px solid var(--pcborder-cl); } .penci-vernav-enable.penci-vernav-poright .penci-menu-hbg{ border-left: 1px solid var(--pcborder-cl); } body{ --pcaccent-cl: #e06a4e; } .penci-menuhbg-toggle:hover .lines-button:after, .penci-menuhbg-toggle:hover .penci-lines:before, .penci-menuhbg-toggle:hover .penci-lines:after,.tags-share-box.tags-share-box-s2 .post-share-plike,.penci-video_playlist .penci-playlist-title,.pencisc-column-2.penci-video_playlist .penci-video-nav .playlist-panel-item, .pencisc-column-1.penci-video_playlist .penci-video-nav .playlist-panel-item,.penci-video_playlist .penci-custom-scroll::-webkit-scrollbar-thumb, .pencisc-button, .post-entry .pencisc-button, .penci-dropcap-box, .penci-dropcap-circle, .penci-login-register input[type="submit"]:hover, .penci-ld .penci-ldin:before, .penci-ldspinner > div{ background: #e06a4e; } a, .post-entry .penci-portfolio-filter ul li a:hover, .penci-portfolio-filter ul li a:hover, .penci-portfolio-filter ul li.active a, .post-entry .penci-portfolio-filter ul li.active a, .penci-countdown .countdown-amount, .archive-box h1, .post-entry a, .container.penci-breadcrumb span a:hover,.container.penci-breadcrumb a:hover, .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .wpb_text_column blockquote:before, .wpb_text_column blockquote cite, .wpb_text_column blockquote .author, .penci-pagination a:hover, ul.penci-topbar-menu > li a:hover, div.penci-topbar-menu > ul > li a:hover, .penci-recipe-heading a.penci-recipe-print,.penci-review-metas .penci-review-btnbuy, .main-nav-social a:hover, .widget-social .remove-circle a:hover i, .penci-recipe-index .cat > a.penci-cat-name, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info a:hover, #bbpress-forums li.bbp-body ul.topic li.bbp-topic-title a:hover, #bbpress-forums li.bbp-body ul.forum li.bbp-forum-info .bbp-forum-content a, #bbpress-forums li.bbp-body ul.topic p.bbp-topic-meta a, #bbpress-forums .bbp-breadcrumb a:hover, #bbpress-forums .bbp-forum-freshness a:hover, #bbpress-forums .bbp-topic-freshness a:hover, #buddypress ul.item-list li div.item-title a, #buddypress ul.item-list li h4 a, #buddypress .activity-header a:first-child, #buddypress .comment-meta a:first-child, #buddypress .acomment-meta a:first-child, div.bbp-template-notice a:hover, .penci-menu-hbg .menu li a .indicator:hover, .penci-menu-hbg .menu li a:hover, #sidebar-nav .menu li a:hover, .penci-rlt-popup .rltpopup-meta .rltpopup-title:hover, .penci-video_playlist .penci-video-playlist-item .penci-video-title:hover, .penci_list_shortcode li:before, .penci-dropcap-box-outline, .penci-dropcap-circle-outline, .penci-dropcap-regular, .penci-dropcap-bold{ color: #e06a4e; } .penci-home-popular-post ul.slick-dots li button:hover, .penci-home-popular-post ul.slick-dots li.slick-active button, .post-entry blockquote .author span:after, .error-image:after, .error-404 .go-back-home a:after, .penci-header-signup-form, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce div.product .entry-summary div[itemprop="description"]:before, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote .author span:after, .woocommerce div.product .woocommerce-tabs #tab-description blockquote .author span:after, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .pcheader-icon.shoping-cart-icon > a > span, #penci-demobar .buy-button, #penci-demobar .buy-button:hover, .penci-recipe-heading a.penci-recipe-print:hover,.penci-review-metas .penci-review-btnbuy:hover, .penci-review-process span, .penci-review-score-total, #navigation.menu-style-2 ul.menu ul.sub-menu:before, #navigation.menu-style-2 .menu ul ul.sub-menu:before, .penci-go-to-top-floating, .post-entry.blockquote-style-2 blockquote:before, #bbpress-forums #bbp-search-form .button, #bbpress-forums #bbp-search-form .button:hover, .wrapper-boxed .bbp-pagination-links span.current, #bbpress-forums #bbp_reply_submit:hover, #bbpress-forums #bbp_topic_submit:hover,#main .bbp-login-form .bbp-submit-wrapper button[type="submit"]:hover, #buddypress .dir-search input[type=submit], #buddypress .groups-members-search input[type=submit], #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress input[type=submit]:hover, #buddypress div.pagination .pagination-links .current, #buddypress div.item-list-tabs ul li.selected a, #buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li a:hover, #buddypress table.notifications thead tr, #buddypress table.notifications-settings thead tr, #buddypress table.profile-settings thead tr, #buddypress table.profile-fields thead tr, #buddypress table.wp-profile-fields thead tr, #buddypress table.messages-notices thead tr, #buddypress table.forum thead tr, #buddypress input[type=submit] { background-color: #e06a4e; } .penci-pagination ul.page-numbers li span.current, #comments_pagination span { color: #fff; background: #e06a4e; border-color: #e06a4e; } .footer-instagram h4.footer-instagram-title > span:before, .woocommerce nav.woocommerce-pagination ul li span.current, .penci-pagination.penci-ajax-more a.penci-ajax-more-button:hover, .penci-recipe-heading a.penci-recipe-print:hover,.penci-review-metas .penci-review-btnbuy:hover, .home-featured-cat-content.style-14 .magcat-padding:before, .wrapper-boxed .bbp-pagination-links span.current, #buddypress .dir-search input[type=submit], #buddypress .groups-members-search input[type=submit], #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress input[type=submit]:hover, #buddypress div.pagination .pagination-links .current, #buddypress input[type=submit], form.pc-searchform.penci-hbg-search-form input.search-input:hover, form.pc-searchform.penci-hbg-search-form input.search-input:focus, .penci-dropcap-box-outline, .penci-dropcap-circle-outline { border-color: #e06a4e; } .woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message { border-top-color: #e06a4e; } .penci-slider ol.penci-control-nav li a.penci-active, .penci-slider ol.penci-control-nav li a:hover, .penci-related-carousel .owl-dot.active span, .penci-owl-carousel-slider .owl-dot.active span{ border-color: #e06a4e; background-color: #e06a4e; } .woocommerce .woocommerce-message:before, .woocommerce form.checkout table.shop_table .order-total .amount, .woocommerce ul.products li.product .price ins, .woocommerce ul.products li.product .price, .woocommerce div.product p.price ins, .woocommerce div.product span.price ins, .woocommerce div.product p.price, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote:before, .woocommerce div.product .woocommerce-tabs #tab-description blockquote:before, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote cite, .woocommerce div.product .entry-summary div[itemprop="description"] blockquote .author, .woocommerce div.product .woocommerce-tabs #tab-description blockquote cite, .woocommerce div.product .woocommerce-tabs #tab-description blockquote .author, .woocommerce div.product .product_meta > span a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce ul.cart_list li .amount, .woocommerce ul.product_list_widget li .amount, .woocommerce table.shop_table td.product-name a:hover, .woocommerce table.shop_table td.product-price span, .woocommerce table.shop_table td.product-subtotal span, .woocommerce-cart .cart-collaterals .cart_totals table td .amount, .woocommerce .woocommerce-info:before, .woocommerce div.product span.price, .penci-container-inside.penci-breadcrumb span a:hover,.penci-container-inside.penci-breadcrumb a:hover { color: #e06a4e; } .standard-content .penci-more-link.penci-more-link-button a.more-link, .penci-readmore-btn.penci-btn-make-button a, .penci-featured-cat-seemore.penci-btn-make-button a{ background-color: #e06a4e; color: #fff; } .penci-vernav-toggle:before{ border-top-color: #e06a4e; color: #fff; } .headline-title { background-color: #e06a4e; } .headline-title.nticker-style-2:after, .headline-title.nticker-style-4:after{ border-color: #e06a4e; } body:not(.pcdm-enable) a.penci-topbar-post-title:hover { color: #e06a4e; } body:not(.pcdm-enable) ul.penci-topbar-menu > li a:hover, body:not(.pcdm-enable) div.penci-topbar-menu > ul > li a:hover { color: #e06a4e; } body:not(.pcdm-enable) .penci-topbar-social a:hover { color: #e06a4e; } #penci-login-popup:before{ opacity: ; } #header .inner-header { background-color: #e8e2da; background-image: none; } #navigation, .show-search { background: #e8e2da; } @media only screen and (min-width: 960px){ #navigation.header-11 > .container { background: #e8e2da; }} #navigation ul.menu > li > a:before, #navigation .menu > ul > li > a:before{ content: none; } .header-slogan .header-slogan-text:before, .header-slogan .header-slogan-text:after{ content: none; } #navigation, #navigation.header-layout-bottom { border-color: #dddddd; } #navigation .menu > li > a:hover, #navigation .menu li.current-menu-item > a, #navigation .menu > li.current_page_item > a, #navigation .menu > li:hover > a, #navigation .menu > li.current-menu-ancestor > a, #navigation .menu > li.current-menu-item > a, #navigation .menu .sub-menu li a:hover, #navigation .menu .sub-menu li.current-menu-item > a, #navigation .sub-menu li:hover > a { color: #e06a4e; } #navigation ul.menu > li > a:before, #navigation .menu > ul > li > a:before { background: #e06a4e; } #navigation .menu .sub-menu, #navigation .menu .children, #navigation ul.menu > li.megamenu > ul.sub-menu { background-color: #efe8e1; } #navigation .menu .sub-menu, #navigation .menu .children, #navigation ul.menu ul.sub-menu li > a, #navigation .menu ul ul.sub-menu li a, #navigation.menu-style-2 .menu .sub-menu, #navigation.menu-style-2 .menu .children { border-color: #dddddd; } #navigation .penci-megamenu .penci-mega-child-categories a.cat-active { border-top-color: #dddddd; border-bottom-color: #dddddd; } #navigation ul.menu > li.megamenu > ul.sub-menu > li:before, #navigation .penci-megamenu .penci-mega-child-categories:after { background-color: #dddddd; } .penci-dropdown-menu{ border-color: #dddddd; } #navigation .penci-megamenu, #navigation .penci-megamenu .penci-mega-child-categories a.cat-active, #navigation .penci-megamenu .penci-mega-child-categories a.cat-active:before { background-color: #e8e2da; } #navigation .penci-megamenu .penci-mega-child-categories, #navigation.menu-style-2 .penci-megamenu .penci-mega-child-categories a.cat-active { background-color: #e8e2da; } #navigation .penci-megamenu .penci-mega-thumbnail .mega-cat-name { color: #e8e2da; } #navigation .penci-megamenu .penci-mega-child-categories a.cat-active, #navigation .menu .penci-megamenu .penci-mega-child-categories a:hover, #navigation .menu .penci-megamenu .penci-mega-latest-posts .penci-mega-post a:hover { color: #e06a4e; } #navigation .penci-megamenu .penci-mega-thumbnail .mega-cat-name { background: #e06a4e; } #navigation .penci-megamenu .post-mega-title a, .pc-builder-element .navigation .penci-megamenu .penci-content-megamenu .penci-mega-latest-posts .penci-mega-post .post-mega-title a{ text-transform: none; } #navigation .menu .sub-menu li a:hover, #navigation .menu .sub-menu li.current-menu-item > a, #navigation .sub-menu li:hover > a { color: #e06a4e; } #navigation.menu-style-2 ul.menu ul.sub-menu:before, #navigation.menu-style-2 .menu ul ul.sub-menu:before { background-color: #e06a4e; } .penci-home-popular-post .item-related h3 a { text-transform: none; } .home-featured-cat-content, .penci-featured-cat-seemore, .penci-featured-cat-custom-ads, .home-featured-cat-content.style-8 { margin-bottom: 40px; } .home-featured-cat-content.style-8 .penci-grid li.list-post:last-child{ margin-bottom: 0; } .home-featured-cat-content.style-3, .home-featured-cat-content.style-11{ margin-bottom: 30px; } .home-featured-cat-content.style-7{ margin-bottom: 14px; } .home-featured-cat-content.style-13{ margin-bottom: 20px; } .penci-featured-cat-seemore, .penci-featured-cat-custom-ads{ margin-top: -20px; } .penci-featured-cat-seemore.penci-seemore-style-7, .mag-cat-style-7 .penci-featured-cat-custom-ads{ margin-top: -18px; } .penci-featured-cat-seemore.penci-seemore-style-8, .mag-cat-style-8 .penci-featured-cat-custom-ads{ margin-top: 0px; } .penci-featured-cat-seemore.penci-seemore-style-13, .mag-cat-style-13 .penci-featured-cat-custom-ads{ margin-top: -20px; } .penci-homepage-title.penci-magazine-title h3 a, .penci-border-arrow.penci-homepage-title .inner-arrow { font-size: 18px; } .penci-header-signup-form { padding-top: px; padding-bottom: px; } .penci-header-signup-form { background-color: #e06a4e; } .header-social a:hover i, .main-nav-social a:hover, .penci-menuhbg-toggle:hover .lines-button:after, .penci-menuhbg-toggle:hover .penci-lines:before, .penci-menuhbg-toggle:hover .penci-lines:after { color: #e06a4e; } #sidebar-nav { background: #e8e2da; } #sidebar-nav .menu li a:hover, .header-social.sidebar-nav-social a:hover i, #sidebar-nav .menu li a .indicator:hover, #sidebar-nav .menu .sub-menu li a .indicator:hover{ color: #e06a4e; } #sidebar-nav-logo:before{ background-color: #e06a4e; } #sidebar-nav .menu li, #sidebar-nav ul.sub-menu, #sidebar-nav #logo + ul { border-color: #dddddd; } .penci-slide-overlay .overlay-link, .penci-slider38-overlay, .penci-flat-overlay .penci-slide-overlay .penci-mag-featured-content:before { opacity: ; } .penci-item-mag:hover .penci-slide-overlay .overlay-link, .featured-style-38 .item:hover .penci-slider38-overlay, .penci-flat-overlay .penci-item-mag:hover .penci-slide-overlay .penci-mag-featured-content:before { opacity: ; } .penci-featured-content .featured-slider-overlay { opacity: ; } .featured-style-29 .featured-slider-overlay { opacity: ; } .penci-standard-cat .cat > a.penci-cat-name { color: #e06a4e; } .penci-standard-cat .cat:before, .penci-standard-cat .cat:after { background-color: #e06a4e; } .standard-content .penci-post-box-meta .penci-post-share-box a:hover, .standard-content .penci-post-box-meta .penci-post-share-box a.liked { color: #e06a4e; } .header-standard .post-entry a:hover, .header-standard .author-post span a:hover, .standard-content a, .standard-content .post-entry a, .standard-post-entry a.more-link:hover, .penci-post-box-meta .penci-box-meta a:hover, .standard-content .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .standard-content-special .author-quote span, .standard-content-special .format-post-box .post-format-icon i, .standard-content-special .format-post-box .dt-special a:hover, .standard-content .penci-more-link a.more-link, .standard-content .penci-post-box-meta .penci-box-meta a:hover { color: #e06a4e; } .standard-content .penci-more-link.penci-more-link-button a.more-link{ background-color: #e06a4e; color: #fff; } .standard-content-special .author-quote span:before, .standard-content-special .author-quote span:after, .standard-content .post-entry ul li:before, .post-entry blockquote .author span:after, .header-standard:after { background-color: #e06a4e; } .penci-more-link a.more-link:before, .penci-more-link a.more-link:after { border-color: #e06a4e; } .penci-grid li .item h2 a, .penci-masonry .item-masonry h2 a, .grid-mixed .mixed-detail h2 a, .overlay-header-box .overlay-title a { text-transform: none; } .penci-grid li .item h2 a, .penci-masonry .item-masonry h2 a { } .penci-featured-infor .cat a.penci-cat-name, .penci-grid .cat a.penci-cat-name, .penci-masonry .cat a.penci-cat-name, .penci-featured-infor .cat a.penci-cat-name { color: #e06a4e; } .penci-featured-infor .cat a.penci-cat-name:after, .penci-grid .cat a.penci-cat-name:after, .penci-masonry .cat a.penci-cat-name:after, .penci-featured-infor .cat a.penci-cat-name:after{ border-color: #e06a4e; } .penci-post-share-box a.liked, .penci-post-share-box a:hover { color: #e06a4e; } .overlay-post-box-meta .overlay-share a:hover, .overlay-author a:hover, .penci-grid .standard-content-special .format-post-box .dt-special a:hover, .grid-post-box-meta span a:hover, .grid-post-box-meta span a.comment-link:hover, .penci-grid .standard-content-special .author-quote span, .penci-grid .standard-content-special .format-post-box .post-format-icon i, .grid-mixed .penci-post-box-meta .penci-box-meta a:hover { color: #e06a4e; } .penci-grid .standard-content-special .author-quote span:before, .penci-grid .standard-content-special .author-quote span:after, .grid-header-box:after, .list-post .header-list-style:after { background-color: #e06a4e; } .penci-grid .post-box-meta span:after, .penci-masonry .post-box-meta span:after { border-color: #e06a4e; } .penci-readmore-btn.penci-btn-make-button a{ background-color: #e06a4e; color: #fff; } .penci-grid li.typography-style .overlay-typography { opacity: ; } .penci-grid li.typography-style:hover .overlay-typography { opacity: ; } .penci-grid li.typography-style .item .main-typography h2 a:hover { color: #e06a4e; } .penci-grid li.typography-style .grid-post-box-meta span a:hover { color: #e06a4e; } .overlay-header-box .cat > a.penci-cat-name:hover { color: #e06a4e; } .penci-sidebar-content .widget, .penci-sidebar-content.pcsb-boxed-whole { margin-bottom: 40px; } .penci-sidebar-content .penci-border-arrow .inner-arrow { font-size: 18px; } .penci-sidebar-content.style-7 .penci-border-arrow .inner-arrow:before, .penci-sidebar-content.style-9 .penci-border-arrow .inner-arrow:before { background-color: #e06a4e; } .penci-sidebar-content .penci-border-arrow:after { content: none; display: none; } .penci-sidebar-content .widget-title{ margin-left: 0; margin-right: 0; margin-top: 0; } .penci-sidebar-content .penci-border-arrow:before{ bottom: -6px; border-width: 6px; margin-left: -6px; } .penci-sidebar-content .penci-border-arrow:before, .penci-sidebar-content.style-2 .penci-border-arrow:after { content: none; display: none; } .penci-video_playlist .penci-video-playlist-item .penci-video-title:hover,.widget ul.side-newsfeed li .side-item .side-item-text h4 a:hover, .widget a:hover, .penci-sidebar-content .widget-social a:hover span, .widget-social a:hover span, .penci-tweets-widget-content .icon-tweets, .penci-tweets-widget-content .tweet-intents a, .penci-tweets-widget-content .tweet-intents span:after, .widget-social.remove-circle a:hover i , #wp-calendar tbody td a:hover, .penci-video_playlist .penci-video-playlist-item .penci-video-title:hover, .widget ul.side-newsfeed li .side-item .side-item-text .side-item-meta a:hover{ color: #e06a4e; } .widget .tagcloud a:hover, .widget-social a:hover i, .widget input[type="submit"]:hover,.penci-user-logged-in .penci-user-action-links a:hover,.penci-button:hover, .widget button[type="submit"]:hover { color: #fff; background-color: #e06a4e; border-color: #e06a4e; } .about-widget .about-me-heading:before { border-color: #e06a4e; } .penci-tweets-widget-content .tweet-intents-inner:before, .penci-tweets-widget-content .tweet-intents-inner:after, .pencisc-column-1.penci-video_playlist .penci-video-nav .playlist-panel-item, .penci-video_playlist .penci-custom-scroll::-webkit-scrollbar-thumb, .penci-video_playlist .penci-playlist-title { background-color: #e06a4e; } .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot.active span, .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot:hover span { border-color: #e06a4e; background-color: #e06a4e; } #footer-copyright * { font-style: normal; } .footer-subscribe .widget .mc4wp-form input[type="submit"]:hover { background-color: #e06a4e; } #widget-area { background-color: #e8e2da; } .footer-widget-wrapper .widget ul li, .footer-widget-wrapper .widget ul ul, .footer-widget-wrapper .widget input[type="text"], .footer-widget-wrapper .widget input[type="email"], .footer-widget-wrapper .widget input[type="date"], .footer-widget-wrapper .widget input[type="number"], .footer-widget-wrapper .widget input[type="search"] { border-color: #dddddd; } .footer-widget-wrapper .widget .widget-title .inner-arrow { border-color: #dddddd; } .footer-widget-wrapper .widget .widget-title .inner-arrow { border-bottom-width: 2px; } .footer-widget-wrapper .penci-tweets-widget-content .icon-tweets, .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents a, .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents span:after, .footer-widget-wrapper .widget ul.side-newsfeed li .side-item .side-item-text h4 a:hover, .footer-widget-wrapper .widget a:hover, .footer-widget-wrapper .widget-social a:hover span, .footer-widget-wrapper a:hover, .footer-widget-wrapper .widget-social.remove-circle a:hover i, .footer-widget-wrapper .widget ul.side-newsfeed li .side-item .side-item-text .side-item-meta a:hover{ color: #e06a4e; } .footer-widget-wrapper .widget .tagcloud a:hover, .footer-widget-wrapper .widget-social a:hover i, .footer-widget-wrapper .mc4wp-form input[type="submit"]:hover, .footer-widget-wrapper .widget input[type="submit"]:hover,.footer-widget-wrapper .penci-user-logged-in .penci-user-action-links a:hover, .footer-widget-wrapper .widget button[type="submit"]:hover { color: #fff; background-color: #e06a4e; border-color: #e06a4e; } .footer-widget-wrapper .about-widget .about-me-heading:before { border-color: #e06a4e; } .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents-inner:before, .footer-widget-wrapper .penci-tweets-widget-content .tweet-intents-inner:after { background-color: #e06a4e; } .footer-widget-wrapper .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot.active span, .footer-widget-wrapper .penci-owl-carousel.penci-tweets-slider .owl-dots .owl-dot:hover span { border-color: #e06a4e; background: #e06a4e; } ul.footer-socials li a:hover i { background-color: #e06a4e; border-color: #e06a4e; } ul.footer-socials li a:hover span { color: #e06a4e; } #footer-section, .penci-footer-social-moved{ background-color: #151515; } #footer-section .footer-menu li a:hover { color: #e06a4e; } .penci-go-to-top-floating { background-color: #e06a4e; } #footer-section a { color: #e06a4e; } .comment-content a, .container-single .post-entry a, .container-single .format-post-box .dt-special a:hover, .container-single .author-quote span, .container-single .author-post span a:hover, .post-entry blockquote:before, .post-entry blockquote cite, .post-entry blockquote .author, .wpb_text_column blockquote:before, .wpb_text_column blockquote cite, .wpb_text_column blockquote .author, .post-pagination a:hover, .author-content h5 a:hover, .author-content .author-social:hover, .item-related h3 a:hover, .container-single .format-post-box .post-format-icon i, .container.penci-breadcrumb.single-breadcrumb span a:hover,.container.penci-breadcrumb.single-breadcrumb a:hover, .penci_list_shortcode li:before, .penci-dropcap-box-outline, .penci-dropcap-circle-outline, .penci-dropcap-regular, .penci-dropcap-bold, .header-standard .post-box-meta-single .author-post span a:hover{ color: #e06a4e; } .container-single .standard-content-special .format-post-box, ul.slick-dots li button:hover, ul.slick-dots li.slick-active button, .penci-dropcap-box-outline, .penci-dropcap-circle-outline { border-color: #e06a4e; } ul.slick-dots li button:hover, ul.slick-dots li.slick-active button, #respond h3.comment-reply-title span:before, #respond h3.comment-reply-title span:after, .post-box-title:before, .post-box-title:after, .container-single .author-quote span:before, .container-single .author-quote span:after, .post-entry blockquote .author span:after, .post-entry blockquote .author span:before, .post-entry ul li:before, #respond #submit:hover, div.wpforms-container .wpforms-form.wpforms-form input[type=submit]:hover, div.wpforms-container .wpforms-form.wpforms-form button[type=submit]:hover, div.wpforms-container .wpforms-form.wpforms-form .wpforms-page-button:hover, .wpcf7 input[type="submit"]:hover, .widget_wysija input[type="submit"]:hover, .post-entry.blockquote-style-2 blockquote:before,.tags-share-box.tags-share-box-s2 .post-share-plike, .penci-dropcap-box, .penci-dropcap-circle, .penci-ldspinner > div{ background-color: #e06a4e; } .container-single .post-entry .post-tags a:hover { color: #fff; border-color: #e06a4e; background-color: #e06a4e; } .container-single .penci-standard-cat .cat > a.penci-cat-name { color: #e06a4e; } .container-single .penci-standard-cat .cat:before, .container-single .penci-standard-cat .cat:after { background-color: #e06a4e; } .container-single .single-post-title { text-transform: none; } .container-single .single-post-title { } .list-post .header-list-style:after, .grid-header-box:after, .penci-overlay-over .overlay-header-box:after, .home-featured-cat-content .first-post .magcat-detail .mag-header:after { content: none; } .list-post .header-list-style, .grid-header-box, .penci-overlay-over .overlay-header-box, .home-featured-cat-content .first-post .magcat-detail .mag-header{ padding-bottom: 0; } .penci-single-style-6 .single-breadcrumb, .penci-single-style-5 .single-breadcrumb, .penci-single-style-4 .single-breadcrumb, .penci-single-style-3 .single-breadcrumb, .penci-single-style-9 .single-breadcrumb, .penci-single-style-7 .single-breadcrumb{ text-align: left; } .container-single .header-standard, .container-single .post-box-meta-single { text-align: left; } .rtl .container-single .header-standard,.rtl .container-single .post-box-meta-single { text-align: right; } .container-single .post-pagination h5 { text-transform: none; } #respond h3.comment-reply-title span:before, #respond h3.comment-reply-title span:after, .post-box-title:before, .post-box-title:after { content: none; display: none; } .container-single .item-related h3 a { text-transform: none; } .container-single .post-share a:hover, .container-single .post-share a.liked, .page-share .post-share a:hover { color: #e06a4e; } .tags-share-box.tags-share-box-2_3 .post-share .count-number-like, .post-share .count-number-like { color: #e06a4e; } .post-entry a, .container-single .post-entry a{ color: #e06a4e; } ul.homepage-featured-boxes .penci-fea-in:hover h4 span { color: #e06a4e; } .penci-home-popular-post .item-related h3 a:hover { color: #e06a4e; } .penci-homepage-title.style-7 .inner-arrow:before, .penci-homepage-title.style-9 .inner-arrow:before{ background-color: #e06a4e; } .home-featured-cat-content .magcat-detail h3 a:hover { color: #e06a4e; } .home-featured-cat-content .grid-post-box-meta span a:hover { color: #e06a4e; } .home-featured-cat-content .first-post .magcat-detail .mag-header:after { background: #e06a4e; } .penci-slider ol.penci-control-nav li a.penci-active, .penci-slider ol.penci-control-nav li a:hover { border-color: #e06a4e; background: #e06a4e; } .home-featured-cat-content .mag-photo .mag-overlay-photo { opacity: ; } .home-featured-cat-content .mag-photo:hover .mag-overlay-photo { opacity: ; } .inner-item-portfolio:hover .penci-portfolio-thumbnail a:after { opacity: ; } .post-entry.blockquote-style-2 blockquote{ background-color: #111; } .widget ul.side-newsfeed li .side-item .side-item-text h4 a {font-size: 14px} .penci_header.penci-header-builder.main-builder-header{}.penci-header-image-logo,.penci-header-text-logo{}.pc-logo-desktop.penci-header-image-logo img{}@media only screen and (max-width: 767px){.penci_navbar_mobile .penci-header-image-logo img{}}.penci_builder_sticky_header_desktop .penci-header-image-logo img{}.penci_navbar_mobile .penci-header-text-logo{}.penci_navbar_mobile .penci-header-image-logo img{}.penci_navbar_mobile .sticky-enable .penci-header-image-logo img{}.pb-logo-sidebar-mobile{}.pc-builder-element.pb-logo-sidebar-mobile img{}.pc-logo-sticky{}.pc-builder-element.pc-logo-sticky.pc-logo img{}.pc-builder-element.pc-main-menu{}.pc-builder-element.pc-second-menu{}.pc-builder-element.pc-third-menu{}.penci-builder.penci-builder-button.button-1{}.penci-builder.penci-builder-button.button-1:hover{}.penci-builder.penci-builder-button.button-2{}.penci-builder.penci-builder-button.button-2:hover{}.penci-builder.penci-builder-button.button-3{}.penci-builder.penci-builder-button.button-3:hover{}.penci-builder.penci-builder-button.button-mobile-1{}.penci-builder.penci-builder-button.button-mobile-1:hover{}.penci-builder.penci-builder-button.button-2{}.penci-builder.penci-builder-button.button-2:hover{}.penci-builder-mobile-sidebar-nav.penci-menu-hbg{border-width:0;}.pc-builder-menu.pc-dropdown-menu{}.pc-builder-element.pc-logo.pb-logo-mobile{}.pc-header-element.penci-topbar-social .pclogin-item a{}body.penci-header-preview-layout .wrapper-boxed{min-height:1500px}.penci_header_overlap .penci-desktop-topblock,.penci-desktop-topblock{border-width:0;}.penci_header_overlap .penci-desktop-topbar,.penci-desktop-topbar{border-width:0;}.penci_header_overlap .penci-desktop-midbar,.penci-desktop-midbar{border-width:0;}.penci_header_overlap .penci-desktop-bottombar,.penci-desktop-bottombar{border-width:0;}.penci_header_overlap .penci-desktop-bottomblock,.penci-desktop-bottomblock{border-width:0;}.penci_header_overlap .penci-sticky-top,.penci-sticky-top{border-width:0;}.penci_header_overlap .penci-sticky-mid,.penci-sticky-mid{border-width:0;}.penci_header_overlap .penci-sticky-bottom,.penci-sticky-bottom{border-width:0;}.penci_header_overlap .penci-mobile-topbar,.penci-mobile-topbar{border-width:0;}.penci_header_overlap .penci-mobile-midbar,.penci-mobile-midbar{border-width:0;}.penci_header_overlap .penci-mobile-bottombar,.penci-mobile-bottombar{border-width:0;} body { --pcdm_btnbg: rgba(0, 0, 0, .1); --pcdm_btnd: #666; --pcdm_btndbg: #fff; --pcdm_btnn: var(--pctext-cl); --pcdm_btnnbg: var(--pcbg-cl); } body.pcdm-enable { --pcbg-cl: #000000; --pcbg-l-cl: #1a1a1a; --pcbg-d-cl: #000000; --pctext-cl: #fff; --pcborder-cl: #313131; --pcborders-cl: #3c3c3c; --pcheading-cl: rgba(255,255,255,0.9); --pcmeta-cl: #999999; --pcl-cl: #fff; --pclh-cl: #e06a4e; --pcaccent-cl: #e06a4e; background-color: var(--pcbg-cl); color: var(--pctext-cl); } body.pcdark-df.pcdm-enable.pclight-mode { --pcbg-cl: #fff; --pctext-cl: #313131; --pcborder-cl: #dedede; --pcheading-cl: #313131; --pcmeta-cl: #888888; --pcaccent-cl: #e06a4e; }</style><script>
+var penciBlocksArray=[];
+var portfolioDataJs = portfolioDataJs || [];var PENCILOCALCACHE = {};
+		(function () {
+				"use strict";
+		
+				PENCILOCALCACHE = {
+					data: {},
+					remove: function ( ajaxFilterItem ) {
+						delete PENCILOCALCACHE.data[ajaxFilterItem];
+					},
+					exist: function ( ajaxFilterItem ) {
+						return PENCILOCALCACHE.data.hasOwnProperty( ajaxFilterItem ) && PENCILOCALCACHE.data[ajaxFilterItem] !== null;
+					},
+					get: function ( ajaxFilterItem ) {
+						return PENCILOCALCACHE.data[ajaxFilterItem];
+					},
+					set: function ( ajaxFilterItem, cachedData ) {
+						PENCILOCALCACHE.remove( ajaxFilterItem );
+						PENCILOCALCACHE.data[ajaxFilterItem] = cachedData;
+					}
+				};
+			}
+		)();function penciBlock() {
+		    this.atts_json = '';
+		    this.content = '';
+		}</script>
+<script type="application/ld+json">{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "http:\/\/tarotpsychic.club\/wp-content\/uploads\/2022\/09\/11.jpg"
+    },
+    "url": "https:\/\/tarotpsychic.club\/",
+    "name": "Tarotpsychic",
+    "description": "Tarotpsychic"
+}</script><script type="application/ld+json">{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "Tarotpsychic",
+    "alternateName": "Tarotpsychic",
+    "url": "https:\/\/tarotpsychic.club\/"
+}</script><script type="application/ld+json">{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "BlogPosting",
+    "headline": "Soledad Install",
+    "description": "Soledad Install",
+    "datePublished": "2022-10-26",
+    "datemodified": "2022-10-26",
+    "mainEntityOfPage": "https:\/\/tarotpsychic.club\/soledadinstall\/",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/tarotpsychic.club\/wp-content\/themes\/soledad\/images\/no-image.jpg"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Tarotpsychic",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "http:\/\/tarotpsychic.club\/wp-content\/uploads\/2022\/09\/11.jpg"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "@id": "#person-THORPEMATTHEW",
+        "name": "THORPE MATTHEW",
+        "url": "https:\/\/tarotpsychic.club\/author\/644648334qq-com\/"
+    }
+}</script><script type="application/ld+json">{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https:\/\/tarotpsychic.club",
+                "name": "Home"
+            }
+        }
+    ]
+}</script><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="http://tarotpsychic.club/wp-content/uploads/2022/09/tarot-psychic.png" sizes="32x32" />
+<link rel="icon" href="http://tarotpsychic.club/wp-content/uploads/2022/09/tarot-psychic.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://tarotpsychic.club/wp-content/uploads/2022/09/tarot-psychic.png" />
+<meta name="msapplication-TileImage" content="http://tarotpsychic.club/wp-content/uploads/2022/09/tarot-psychic.png" />
+
+
+    <style>
+      body{
+        margin:0;
+        padding:0;
+      }
+    </style>
+
+    
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="object" />
+  <meta property="og:title" content="Soledad Install" />
+  <meta property="og:site_name" content="Tarotpsychic" />
+  <meta property="og:description" name="og:description" content="">
+  <meta property="og:image" name="og:image" content="https://imagelibrary.pluginops.com/wp-content/uploads//2019/02/underline.png">
+  <meta property="og:url" content="https://tarotpsychic.club/soledadinstall/">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+
+
+  <style type="text/css">
+              .ulpb_PageBody_1741 {
+            background-color: rgb(255, 255, 255) ;
+          }
+                  .ulpb_PageBody_1741{
+          padding: % % % %;
+        }
+        
+
+
+    .ulpb_PageBody1741{ background:url() no-repeat center center; background-size:cover; background-color:rgb(255, 255, 255) ;  } #fullPageBgOverlay_1741 {  background: ; background-color: ; }  
+  </style>
+
+<!-- Tracking Scripts -->
+
+<!-- Custom head styling  -->
+<style type="text/css">
+  
+
+  /* Add your custom CSS here.*/</style>
+
+<!-- Custom head script  -->
+<script>
+  /* Add your custom Javascript here.*/</script>
+
+ <!--- PluginOps Type - 0 ---></head>
+<body class='ulpb_PageBody ulpb_PageBody_1741'><div id='fullPageBgOverlay_1741' class='fullPageBgOverlay' style='height: 100%; top: 0 !important; bottom:0 !important; left: 0 !important; right:0 !important;  width: 100%; position: fixed;'></div>
+    
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row132138' id='ulpb_Row132138'>
+      <div class="overlay-row" style=" background: ; background-color: ;"></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row132138" style="margin:0 auto !important; max-width:100% !important;">
+  	   
+          
+          
+          
+           
+      <div id='ulpb_Row132138-column1' class='pops-column pb-col-1  '> 
+<div class='widget-0   '  id='widget-0-column1-ulpb_Row132138'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><h1 style="text-align:center; color:#8ec840; font-size:79px; font-weight:200; text-transform:;  font-family:Satisfy, sans-serif; font-weight:; font-style:;  text-decoration:; line-height:em;  letter-spacing:px;">    <span class="elLtWrapped defaultELt"> Install Soledad theme </span> <div class="ltwFontScript" style="display:none;"> </div>     </h1> </div>  
+
+<div class='widget-1   '  id='widget-1-column1-ulpb_Row132138'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:center;      /* Custom CSS for widget here. */  ' ><div id='pb_img284760' style='text-align:center; position:relative;'> 
+                       
+                      <img src=https://imagelibrary.pluginops.com/wp-content/uploads//2019/02/underline.png alt='' style='display:inline; text-align:center;  border-width: px px  px px; border-style: ; border-color: ; border-radius:px px px px; box-shadow: px  px  px  ;   ' class='ftr-img-column1 img-small'>
+                      
+                      
+                    </div></div>  
+
+<div class='widget-2   '  id='widget-2-column1-ulpb_Row132138'  style='margin:5% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><div> <h2 style="text-align: left; color: #ffffff; font-size: 35px;" class=" "><span class=" " style="font-weight: bold;">Install</span> Best <span class=" " style="font-family: Satisfy; color: #8ec840; font-size: 38px;">Soledad</span></h2><p class=" " style="color: #ffffff; font-size: 21px; line-height: 22px;"></p><span class=" "><p class=" " style="line-height: 22px;"><font color="#ffffff"><span style="font-size: 21px;" class=" "><span class=" " style="font-weight: bold;">Soledad</span> Theme the most popular WordPress theme&nbsp;</span></font></p><p class=" " style="line-height: 22px;"><font color="#ffffff"><span style="font-size: 21px;" class=" ">that lets you write articles blog posts. Which cost <span class=" " style="font-weight: bold;">$59 for 6 months</span></span></font></p><p class=" " style="line-height: 22px;"><font color="#ffffff"><span style="font-size: 21px;" class=" ">supported in theme forest.</span></font></p><p class=" " style="line-height: 22px;"><font color="#ffffff"><span style="" class=" "><span style="font-size: 21px;" class=" "><span class=" " style="font-weight: bold;">But for me, only $5 </span>will be installed for you and used forever!</span><br></span></font></p></span><p class=" " style="color: #ffffff; font-size: 21px; line-height: 22px;"></p> </div></div>  
+
+<div class='widget-3   '  id='widget-3-column1-ulpb_Row132138'  style='margin:4% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' >
+                <div class='wdt-wigt-btn-gen parent-btn-23256' style='text-align:left;margin:0 0 2px 0; padding:0;' >
+                  <a href='https://tarotpsychic.club/soledadinstall/?popb_pID=1741&popb_track_url=https%3A%2F%2Fgo.fiverr.com%2Fvisit%2F%3Fbta%3D561863%26brand%3Dfiverrcpa' style='text-decoration:none !important;' target='_blank' id='btnLink-23256'  >
+                    <button class='btn-23256 btnLink-Select' style="color:#fff ;font-size:20px ; background: rgb(142, 200, 64) ; background-color: rgb(142, 200, 64);  padding: 20px 5px; width:300px;  border: 0px solid #d9534f !important; border-radius: 50px !important; text-align:center; font-family:Lato ,sans-serif;"  > Contact Immediately  <i style="margin-left:5px;" class="fa fa fa-arrow-right  btnIcon-23256"></i></button>
+                  </a>
+                </div> 
+                <style> .btn-23256:hover{ background-color: rgb(127, 177, 59) !important; background: rgb(127, 177, 59) !important; color:rgb(255, 255, 255) !important; transition: all .5s; }   .btn-23256 { transition: all .5s; } </style>   
+                </div>  
+ </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row42872' id='ulpb_Row42872'>
+      <div class="overlay-row" style=" background: ; background-color: ;"></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row42872" style="margin:0 auto !important; max-width:100% !important;">
+  	   
+           
+      <div id='ulpb_Row42872-column1' class='pops-column pb-col-1  '> 
+<div class='widget-0   '  id='widget-0-column1-ulpb_Row42872'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><div><font color="#1d2327"><span style="font-size: 31px;"><b><u>  </u></b></span></font><h2 style="text-align: center;" class=" "><span style="font-size: 31px;"><b><u class=" ">How to get the <span class=" ">preferential</span> installation service？</u></b></span><br></h2>  </div></div>  
+ </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row62683' id='ulpb_Row62683'>
+      <div class="overlay-row" style=""></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row62683" style="margin:0 auto !important; max-width:100% !important;">
+  	   
+           
+      <div id='ulpb_Row62683-column1' class='pops-column pb-col-3  '> 
+<div class='widget-0   '  id='widget-0-column1-ulpb_Row62683'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:center;      /* Custom CSS for widget here. */  ' ><div id='pb_img250580' style='text-align:center; position:relative;'> 
+                      <a href="https://go.fiverr.com/visit/?bta=561863&brand=fiverrcpa" target="_blank"> 
+                      <img src=http://tarotpsychic.club/wp-content/uploads/2022/10/1.jpg alt='' style='display:inline; text-align:center;  border-width: px px  px px; border-style: ; border-color: ; border-radius:px px px px; box-shadow: px  px  px  ;   ' class='ftr-img-column1 img-medium'>
+                      
+                      </a>
+                    </div></div>  
+ </div> <!-- Column ends!-->
+      
+           
+      <div id='ulpb_Row62683-column2' class='pops-column pb-col-3  '> 
+<div class='widget-0   '  id='widget-0-column2-ulpb_Row62683'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:center;      /* Custom CSS for widget here. */  ' ><div id='pb_img433680' style='text-align:center; position:relative;'> 
+                      <a href="https://go.fiverr.com/visit/?bta=561863&brand=fiverrcpa" target="_blank"> 
+                      <img src=http://tarotpsychic.club/wp-content/uploads/2022/10/2.jpg alt='' style='display:inline; text-align:center;  border-width: px px  px px; border-style: ; border-color: ; border-radius:px px px px; box-shadow: px  px  px  ;   ' class='ftr-img-column2 img-medium'>
+                      
+                      </a>
+                    </div></div>  
+ </div> <!-- Column ends!-->
+      
+           
+      <div id='ulpb_Row62683-column3' class='pops-column pb-col-3  '> 
+<div class='widget-0   '  id='widget-0-column3-ulpb_Row62683'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:center;      /* Custom CSS for widget here. */  ' ><div id='pb_img480150' style='text-align:center; position:relative;'> 
+                      <a href="https://gigads.fiverr.com/visit?bta=561863&utm_campaign=gig_ads&utm_term=gig_ads_widget&afp=gigs_ads&afp1=https%3A%2F%2Ftarotpsychic.club%2Flanding1%2F&afp2=you-install-the-wordpress-theme-about-soledad&afp3=gig_description&brand=fiverrhybrid&landingPage=https%3A%2F%2Ffiverr.com%2Fdocjeff626%2Fhelp-you-install-the-wordpress-theme-about-soledad&afp4=specific_gig" target="_blank"> 
+                      <img src=http://tarotpsychic.club/wp-content/uploads/2022/10/3.jpg alt='' style='display:inline; text-align:center;  border-width: px px  px px; border-style: ; border-color: ; border-radius:px px px px; box-shadow: px  px  px  ;   ' class='ftr-img-column3 img-medium'>
+                      
+                      </a>
+                    </div></div>  
+ </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row138079' id='ulpb_Row138079'>
+      <div class="overlay-row" style=""></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row138079" style="margin:0 auto !important; max-width:100% !important;">
+  	   
+           
+      <div id='ulpb_Row138079-column1' class='pops-column pb-col-1  '> 
+<div class='widget-0   '  id='widget-0-column1-ulpb_Row138079'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><div  id=pb_testimonialCarousel_442206 class="pbOwl-carousel">
+<div class='carouselSingleSlide'> <div style="padding:3% 1% 3% 1%; text-align:center; display: inline-flex; align-items: center;">
+
+          <div style="width:30%; display:inline-block; text-align:center; display:visible; float:left; "><img src="https://imagelibrary.pluginops.com/wp-content/uploads//2019/02/testimonials-image.png" style="width:35%;  border-radius:0;"  alt="" title=""  /> </div>
+          <div style="width:69%; display:inline-block; text-align:left;"><p class="tesAComment">Best WordPress theme for your site.
+Well documented, supports numerous customization options, updated regulary.
+The white label option makes my site even more splendid.
+Highly recommend buying this theme.
+It also gets updated even though I've purchased this theme a year ago.</p> <b><p class="tesAName"> John Doe </p></b> <a href=none target="_blank"><p class="tesAJob" >CEO, Tech Corps</p></a></div>
+
+        </div> </div></div>
+<style>  #pb_testimonialCarousel_442206 .tesAName { color:#8ec840; font-size:18px; font-family:Arial; }#pb_testimonialCarousel_442206 .tesAJob { color:#8ec840; font-size: calc(3 - 18px); font-family:Arial; }#pb_testimonialCarousel_442206 .tesAComment { color:#8ec840; font-size:20px ; font-family:Verdana; }</style>
+</div>  
+ </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row11217' id='ulpb_Row11217'>
+      <div class="overlay-row" style=" background: ; background-color: ;"></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row11217" style="margin:0 auto !important; max-width:100% !important;">
+  	   
+           
+      <div id='ulpb_Row11217-column1' class='pops-column pb-col-2  '> 
+<div class='widget-0   '  id='widget-0-column1-ulpb_Row11217'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:center;      /* Custom CSS for widget here. */  ' ><div id='pb_img181504' style='text-align:center; position:relative;'> 
+                       
+                      <img src=http://tarotpsychic.club/wp-content/uploads/2022/10/Soledad-Multi-Concept-Blog-Magazine-News-AMP-WordPress-Theme.jpeg alt='' style='display:inline; text-align:center;  border-width: px px  px px; border-style: ; border-color: ; border-radius:px px px px; box-shadow: px  px  px  ;   ' class='ftr-img-column1 img-medium'>
+                      
+                      
+                    </div></div>  
+ </div> <!-- Column ends!-->
+      
+          
+          
+           
+      <div id='ulpb_Row11217-column2' class='pops-column pb-col-2  '> 
+<div class='widget-0   '  id='widget-0-column2-ulpb_Row11217'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><div>    <h2 style="text-align: left; font-weight: bold;" class=" "> Install the Soledad theme in your WP website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class=" " style="color: rgb(142, 200, 64); font-size: 30px;">$5</span></h2>    </div></div>  
+
+<div class='widget-1   '  id='widget-1-column2-ulpb_Row11217'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><iframe src="https://www.fiverr.com/gig_widgets?id=U2FsdGVkX18k2/cDlhLWfCUyTTAxI1hfnf/mCoNMMHPEGP8vDB97BG6WJ8blul5GDxuhVVmUB/j3q5YTabqb2u/vFnXGIoMEz9FuILMYCs4711QXbJXy72WWo/A4BjMz8MOQ4FMGfA2pEA1Dgy82RT1i0+2F8iceAOmhGh1Lu5XYeTJ8XkiZbcs0uLGE9t8VAgIP1MaqtdKOFslJQhL8Ma96ROndcpCK92iuf+oFqzxP0ZYCkjkBDT9ETlqkEKbFfaANZINEwJjHEXbnQLbtahDvbsEZuxtNd5kQqKAiLUZ0leycmhNYIsrPUiol8/+zNBhQ8ru9QPdg9vOpXyXcydA9zlJ8BQaKN00pIJnItkxT5gkni+Y043/uxkt2Xs49hcp8IBEz66lUv8CVxwtvRl9hCq8KVmtyiB1spU1NHzx5fC7hamNH54w1VOt2JSIDFrk8zy/kEeRfz4OIgkv3Z7BhwYbMcg52C9c03NSSc0uWfIxuGCbhZVzmovB/jevwUY3h/Mqi3E6IakCS6ZkcytFeUBAdwEZ/PuJpq2VlQUKvilDBIh1zTj9WMoIE58BbeCv5dViAEoVhTCwzJQhwAsFrIlSwu5ck8S7sjBYF1jBx7euVUDR+3LNrpDCLyLS7ViolASn7Wz96xhy3FVmEY9b//4OJ0yL6Iu1RCrjAjPw=&affiliate_id=561863&strip_google_tagmanager=true" loading="lazy" data-with-title="true" class="fiverr_nga_frame" frameborder="0" height="350" width="100%" referrerpolicy="no-referrer-when-downgrade" data-mode="specific_gig" onload=" var frame = this; var script = document.createElement('script'); script.addEventListener('load', function() { window.FW_SDK.register(frame); }); script.setAttribute('src', 'https://www.fiverr.com/gig_widgets/sdk'); document.body.appendChild(script); " ></iframe>
+</div>  
+
+<div class='widget-2   '  id='widget-2-column2-ulpb_Row11217'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:inline-block; text-align:;      /* Custom CSS for widget here. */  ' >
+                <div class='wdt-wigt-btn-gen parent-btn-47200' style='text-align:left;margin:0 0 2px 0; padding:0;' >
+                  <a href='https://tarotpsychic.club/soledadinstall/?popb_pID=1741&popb_track_url=https%3A%2F%2Fgigads.fiverr.com%2Fvisit%3Fbta%3D561863%26utm_campaign%3Dgig_ads%26utm_term%3Dgig_ads_widget%26afp%3Dgigs_ads%26afp1%3Dhttps%253A%252F%252Ftarotpsychic.club%252Flanding1%252F%26afp2%3Dyou-install-the-wordpress-theme-about-soledad%26afp3%3Dgig_description%26brand%3Dfiverrhybrid%26landingPage%3Dhttps%253A%252F%252Ffiverr.com%252Fdocjeff626%252Fhelp-you-install-the-wordpress-theme-about-soledad%26afp4%3Dspecific_gig' style='text-decoration:none !important;' target='_blank' id='btnLink-47200'  >
+                    <button class='btn-47200 btnLink-' style="color:#fff ;font-size:24px ; background: rgb(142, 200, 64) ; background-color: rgb(142, 200, 64);  padding: 25px 5px; width:280px;  border: 0px solid #d9534f !important; border-radius: 5px !important; text-align:center; font-family:Open Sans ,sans-serif;"  ><i style="margin-right:15px;" class="fa fa fa-shopping-basket  btnIcon-47200"></i>   <span class="elLtWrapped defaultELt" style="font-weight: bold;"> BUY NOW </span> <div class="ltwFontScript" style="display:none;"></div>     </button>
+                  </a>
+                </div> 
+                <style> .btn-47200:hover{ background-color: rgb(119, 168, 53) !important; background: rgb(119, 168, 53) !important; color:rgb(255, 255, 255) !important; transition: all .5s; }   .btn-47200 { transition: all .5s; } </style>   
+                </div>  
+ </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row32586' id='ulpb_Row32586'>
+      <div class="overlay-row" style=""></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row32586" style="margin:0 auto !important; max-width:100% !important;">
+  	    
+      <div id='ulpb_Row32586-column1' class='pops-column pb-col-1  '>  </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	
+    <script type="text/javascript">
+          </script>
+  	<div class='pops-row w3-row  ' data-row_id='ulpb_Row1131' id='ulpb_Row1131'>
+      <div class="overlay-row" style=" background: ; background-color: ;"></div>
+
+      
+      
+
+        
+              
+      <div class="rowColumnsContainer" id="rowColCont-ulpb_Row1131" style="margin:0 auto !important; max-width:100% !important;">
+  	   
+           
+      <div id='ulpb_Row1131-column1' class='pops-column pb-col-1  '> 
+<div class='widget-0   '  id='widget-0-column1-ulpb_Row1131'  style='margin:0% 0% 0% 0%; padding:0% 0% 0% 0%;  border-width: px px  px px; border-style: none; border-color: ; box-shadow: px  px  px  ; border-radius:px px px px;   background: transparent; background:transparent;  display:block; text-align:;      /* Custom CSS for widget here. */  ' ><div>   <h2 style="text-align: center; font-weight: bold; color: rgb(250, 250, 250); font-size: 24px;" class=" ">© <span class=" ">Soledad</span>&nbsp;Team Designs. All Right Reserved<br></h2>   </div></div>  
+ </div> <!-- Column ends!-->
+            </div>
+      
+  	</div>
+  	<div class='popb_footer_scripts' style='display:none !important;'><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Satisfy&family=Lato&family=Open+Sans">    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Satisfy" class="loadedfont-Satisfy">  </div>
+<link rel='stylesheet' id='pluginops-landingpage-style-css-css'  href='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/templates/style.css?ver=1.0' type='text/css' media='all' />
+<style id='pluginops-landingpage-style-css-inline-css' type='text/css'>
+#ulpb_Row132138{   min-height:100px; padding:5% 10% 8% 10%;  margin:0% 0% 0% 0%;  
+          background-color:#fff ;
+          background-image: url(https://imagelibrary.pluginops.com/wp-content/uploads//2019/02/Header.png);
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }        #ulpb_Row42872{   min-height:50px; padding:2% 5% 2% 5%;  margin:0% 0% 0% 0%;  
+          background-color:transparent ;
+          background-image: url();
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }        #ulpb_Row62683{   min-height:100px; padding:0% 0% 0% 0%;  margin:0% 0% 0% 0%;  
+          background-color:#fff ;
+          background-image: url();
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }        #ulpb_Row138079{   min-height:100px; padding:0% 0% 0% 0%;  margin:0% 0% 0% 0%;  
+          background-color:#fff ;
+          background-image: url();
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }        #ulpb_Row11217{   min-height:100px; padding:2% 10% 2% 10%;  margin:0% 0% 0% 0%;  
+          background-color:transparent ;
+          background-image: url();
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }        #ulpb_Row32586{   min-height:100px; padding:0% 0% 0% 0%;  margin:0% 0% 0% 0%;  
+          background-color:#fff ;
+          background-image: url();
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }        #ulpb_Row1131{   min-height:50px; padding:1% 0% 1% 0%;  margin:0% 0% 0% 0%;  
+          background-color:#1b1b1b ;
+          background-image: url();
+          background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-position: center center; 
+          background-size: cover; 
+        
+            display:block }            #ulpb_Row132138-column1 {width:99%; min-height:100px; 
+            background-color:#fff ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row42872-column1 {width:99%; min-height:50px; 
+            background-color:transparent ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:50px; }      #ulpb_Row62683-column1 {width:33.3%; min-height:100px; 
+            background-color:#fff ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row62683-column2 {width:33.3%; min-height:100px; 
+            background-color:#fff ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row62683-column3 {width:33.3%; min-height:100px; 
+            background-color:#fff ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row138079-column1 {width:99%; min-height:100px; 
+            background-color:#fff ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row11217-column1 {width:49%; min-height:100px; 
+            background-color:transparent ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row11217-column2 {width:49%; min-height:100px; 
+            background-color:transparent ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row32586-column1 {width:99%; min-height:100px; 
+            background-color:#fff ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:100px; }      #ulpb_Row1131-column1 {width:99%; min-height:50px; 
+            background-color:#1b1b1b ;
+            background-image: url();
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-position: center center; 
+            background-size: cover; 
+          
+         background-color:transparent; margin:0% 0% 0% 0% ;  padding:0% 0% 0% 0% ;  box-shadow: px  px  px hsv(0, 0%, 0%) ;  border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style:;border-color:;border-radius:px px px px;    display:inline-block;  min-height:50px; }                                                                         
+ @media only screen and (min-width : 768px) and (max-width : 1024px) { 
+.ulpb_PageBody_1741 { padding-top:% !important; padding-bottom:% !important; padding-left:% !important; padding-right:% !important;  }     
+        #ulpb_Row132138 {
+          background-image: url(https://imagelibrary.pluginops.com/wp-content/uploads//2019/02/Header.png) !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row132138 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 4% !important;
+         padding-bottom: 10% !important;
+         padding-left: 5% !important;
+         padding-right: 5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row132138-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row132138-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+                    #widget-0-column1-ulpb_Row132138  h1 * {
+                     font-size:  px !important;
+                     line-height: em !important;
+                     letter-spacing: px !important;
+                     text-align: !important;
+                    }
+
+                    #widget-0-column1-ulpb_Row132138  h1 {
+                      font-size:  px !important;
+                      line-height: em !important;
+                      letter-spacing: px !important;
+                      text-align: !important;
+                     }
+                    
+              #widget-1-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+              #widget-2-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+              #widget-3-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+                          
+
+                    #widget-3-column1-ulpb_Row132138  .btn-23256 {
+                     font-size: px !important;
+                     width: % !important;
+                     padding: px 5px !important;
+                    }
+                    
+        #ulpb_Row42872 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row42872 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row42872-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row42872-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column1-ulpb_Row42872 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row62683 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row62683 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row62683-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row62683-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column1-ulpb_Row62683 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row62683-column2  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row62683-column2 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column2-ulpb_Row62683 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row62683-column3  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row62683-column3 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column3-ulpb_Row62683 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row138079 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row138079 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row138079-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row138079-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column1-ulpb_Row138079 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+               #pb_testimonialCarousel_442206 .tesAName { font-size:px;  }#pb_testimonialCarousel_442206 .tesAJob { font-size: calc(3 - px);  }#pb_testimonialCarousel_442206 .tesAComment {  font-size:px ; }#pb_testimonialCarousel_442206 i { font-size:px ; }  
+        #ulpb_Row11217 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row11217 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 5% !important;
+         padding-bottom: 5% !important;
+         padding-left: 5% !important;
+         padding-right: 5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row11217-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row11217-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column1-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row11217-column2  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row11217-column2 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column2-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+              #widget-1-column2-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+              #widget-2-column2-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+                          
+
+                    #widget-2-column2-ulpb_Row11217  .btn-47200 {
+                     font-size: px !important;
+                     width: % !important;
+                     padding: px 5px !important;
+                    }
+                    
+        #ulpb_Row32586 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row32586 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row32586-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row32586-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+        #ulpb_Row1131 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+        #ulpb_Row1131 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+      
+        
+        #ulpb_Row1131-column1  {
+         width:% !important;
+         margin-top: % !important;
+         margin-bottom: % !important;
+         margin-left: % !important;
+         margin-right: % !important;
+
+         padding-top: % !important;
+         padding-bottom: % !important;
+         padding-left: % !important;
+         padding-right: % !important;
+
+         min-height:auto !important;
+         display:inline-block;
+         
+         border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+        }
+      
+          
+          #ulpb_Row1131-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+              #widget-0-column1-ulpb_Row1131 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+               }  
+ @media only screen and (min-width : 320px) and (max-width : 480px) { 
+.ulpb_PageBody_1741 { padding-top:% !important; padding-bottom:% !important; padding-left:% !important; padding-right:% !important;  }     
+        #ulpb_Row132138 {
+          background-image: url(https://imagelibrary.pluginops.com/wp-content/uploads//2019/02/Header.png) !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row132138 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 5% !important;
+         padding-bottom: 10% !important;
+         padding-left: 5% !important;
+         padding-right: 5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row132138-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row132138-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+                    #widget-0-column1-ulpb_Row132138  h1 * {
+                     font-size: 45px !important;
+                     line-height: 1em !important;
+                     letter-spacing: px !important;
+                     text-align: !important;
+                    }
+
+                    #widget-0-column1-ulpb_Row132138  h1 {
+                      font-size: 45px !important;
+                      line-height: 1em !important;
+                      letter-spacing: px !important;
+                      text-align: !important;
+                     }
+                    
+             #widget-1-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+             #widget-2-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+             #widget-3-column1-ulpb_Row132138 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+                    #widget-3-column1-ulpb_Row132138  .btn-23256 {
+                     font-size: px !important;
+                     width: % !important;
+                     padding: px 5px !important;
+                    }
+                    
+        #ulpb_Row42872 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row42872 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row42872-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row42872-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column1-ulpb_Row42872 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row62683 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row62683 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row62683-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row62683-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column1-ulpb_Row62683 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+          #ulpb_Row62683-column2  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row62683-column2 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column2-ulpb_Row62683 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+          #ulpb_Row62683-column3  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row62683-column3 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column3-ulpb_Row62683 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+        #ulpb_Row138079 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row138079 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row138079-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row138079-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column1-ulpb_Row138079 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+               #pb_testimonialCarousel_442206 .tesAName { font-size:px;  }#pb_testimonialCarousel_442206 .tesAJob { font-size: calc(3 - px);  }#pb_testimonialCarousel_442206 .tesAComment {  font-size:px ; }#pb_testimonialCarousel_442206 i { font-size:px ; }  
+        #ulpb_Row11217 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row11217 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row11217-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row11217-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column1-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+          #ulpb_Row11217-column2  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row11217-column2 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column2-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+             #widget-1-column2-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+             #widget-2-column2-ulpb_Row11217 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+              
+                    #widget-2-column2-ulpb_Row11217  .btn-47200 {
+                     font-size: px !important;
+                     width: % !important;
+                     padding: px 5px !important;
+                    }
+                    
+        #ulpb_Row32586 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row32586 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row32586-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row32586-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+        #ulpb_Row1131 {
+          background-image: url() !important;
+          background-repeat: no-repeat !important;
+          background-attachment: scroll !important;
+          background-position: center center; 
+          background-size: cover; 
+        }
+        
+      
+        #ulpb_Row1131 {
+         margin-top: 0% !important;
+         margin-bottom: 0% !important;
+         margin-left: 0% !important;
+         margin-right: 0% !important;
+
+         padding-top: 1.5% !important;
+         padding-bottom: 1.5% !important;
+         padding-left: 1.5% !important;
+         padding-right: 1.5% !important;
+
+         min-height:auto !important;
+         display:block
+        }
+        
+          #ulpb_Row1131-column1  {
+           width:% !important;
+           margin-top: % !important;
+           margin-bottom: % !important;
+           margin-left: % !important;
+           margin-right: % !important;
+
+           padding-top: % !important;
+           padding-bottom: % !important;
+           padding-left: % !important;
+           padding-right: % !important;
+
+           min-height:auto !important;
+           display:inline-block;
+           
+           border-top-width:px;border-bottom-width:px;border-left-width:px;border-right-width:px;border-style: ;border-color: ;border-radius:px px px px;
+          }
+        
+          
+          #ulpb_Row1131-column1 {
+            background-image: url() !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+            background-position: center center; 
+            background-size: cover; 
+          }
+          
+             #widget-0-column1-ulpb_Row1131 {
+               margin-top: 0% !important;
+               margin-bottom: 0% !important;
+               margin-left: 0% !important;
+               margin-right: 0% !important;
+
+               padding-top: 1.5% !important;
+               padding-bottom: 1.5% !important;
+               padding-left: 1.5% !important;
+               padding-right: 1.5% !important;
+               display: block !important;  
+              }
+               } 
+</style>
+<link rel='stylesheet' id='landing-page-public-jqueryui-styles-css'  href='https://tarotpsychic.club/wp-content/plugins/page-builder-add/js/Backbone-resources/jquery-ui.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='pluginops-landingpage-style-css-files_0-css'  href='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/scripts/owl-carousel/owl.carousel.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pluginops-landingpage-style-css-files_1-css'  href='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/scripts/owl-carousel/owl.theme.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pluginops-landingpage-style-css-files_2-css'  href='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/scripts/owl-carousel/owl.transitions.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pluginops-landingpage-style-css-files_3-css'  href='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/templates/animate.min.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/admin-bar.min.js?ver=6.0.3' id='admin-bar-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/wplegalpages/admin/js/jquery.cookie.min.js?ver=2.9.0' id='wp-legal-pages-jquery-cookie-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/themes/soledad/js/penci-lazy.js?ver=8.2.6' id='pc-lazy-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/themes/soledad/js/libs-script.min.js?ver=8.2.6' id='penci-libs-js-js'></script>
+<script type='text/javascript' id='main-scripts-js-extra'>
+/* <![CDATA[ */
+var ajax_var_more = {"url":"https:\/\/tarotpsychic.club\/wp-admin\/admin-ajax.php","nonce":"901fd60500","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","login":"Email Address","password":"Password","headerstyle":"default"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/themes/soledad/js/main.js?ver=8.2.6' id='main-scripts-js'></script>
+<script type='text/javascript' id='penci_ajax_like_post-js-extra'>
+/* <![CDATA[ */
+var ajax_var = {"url":"https:\/\/tarotpsychic.club\/wp-admin\/admin-ajax.php","nonce":"901fd60500","errorPass":"<p class=\"message message-error\">Password does not match the confirm password<\/p>","login":"Email Address","password":"Password","headerstyle":"default"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/themes/soledad/js/post-like.js?ver=8.2.6' id='penci_ajax_like_post-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/comment-reply.min.js?ver=6.0.3' id='comment-reply-js'></script>
+<script type='text/javascript' id='googlesitekit-tracking-data-js-extra'>
+/* <![CDATA[ */
+var _googlesitekitTrackingData = {"referenceSiteURL":"https:\/\/tarotpsychic.club\/","userIDHash":"0f1d4727cf0fc54cc2ebd5f9fc1300f2","isAuthenticated":true,"userRoles":["administrator"],"activeModules":["search-console","analytics","pagespeed-insights"],"isSiteKitScreen":false,"trackingEnabled":true,"trackingID":"UA-130569087-3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/runtime-9770de66c1a652de8f96.js' id='googlesitekit-runtime-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-i18n-e29c32171c9d96a19747.js' id='googlesitekit-i18n-js'></script>
+<script type='text/javascript' id='googlesitekit-base-data-js-extra'>
+/* <![CDATA[ */
+var _googlesitekitBaseData = {"homeURL":"https:\/\/tarotpsychic.club\/","referenceSiteURL":"https:\/\/tarotpsychic.club\/","adminURL":"https:\/\/tarotpsychic.club\/wp-admin\/","assetsURL":"https:\/\/tarotpsychic.club\/wp-content\/plugins\/google-site-kit\/dist\/assets\/","widgetsAdminURL":"https:\/\/tarotpsychic.club\/wp-admin\/widgets.php","blogPrefix":"hqh_","ampMode":false,"isNetworkMode":false,"timezone":"","siteName":"Tarotpsychic","enabledFeatures":["adsenseSetupV2"],"webStoriesActive":false,"postTypes":[{"slug":"post","label":"Posts"},{"slug":"page","label":"Pages"},{"slug":"attachment","label":"Media"},{"slug":"ulpb_post","label":"Landing Pages"},{"slug":"archive-template","label":"Archive Template"},{"slug":"custom-post-template","label":"Post Template"},{"slug":"penci-block","label":"Penci Block"}],"isOwner":true,"splashURL":"https:\/\/tarotpsychic.club\/wp-admin\/admin.php?page=googlesitekit-splash","proxySetupURL":"https:\/\/tarotpsychic.club\/wp-admin\/index.php?action=googlesitekit_proxy_setup_start&nonce=f90c839a77","proxyPermissionsURL":"https:\/\/tarotpsychic.club\/wp-admin\/index.php?action=googlesitekit_proxy_permissions&nonce=7a3367e92b","usingProxy":true,"isAuthenticated":true,"setupErrorCode":null,"setupErrorMessage":null,"setupErrorRedoURL":null,"proxySupportLinkURL":"https:\/\/sitekit.withgoogle.com\/support","updateCoreURL":"https:\/\/tarotpsychic.club\/wp-admin\/update-core.php","wpVersion":{"version":"6.0.3","major":6,"minor":0},"userRoles":["administrator"],"activeModules":["search-console","analytics","pagespeed-insights"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-polyfills-421c80d21a2c9d9b75c4.js' id='googlesitekit-polyfills-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-vendor-1fc88689387e751c7c47.js' id='googlesitekit-vendor-js'></script>
+<script type='text/javascript' id='googlesitekit-commons-js-extra'>
+/* <![CDATA[ */
+var _googlesitekitLegacyData = {"admin":{"siteURL":"https:\/\/tarotpsychic.club","resetSession":null,"newSitePosts":false,"connectURL":"https:\/\/tarotpsychic.club\/wp-admin\/index.php?action=googlesitekit_connect&nonce=721beb8ea0","disconnectURL":"https:\/\/tarotpsychic.club\/wp-admin\/index.php?action=googlesitekit_disconnect&nonce=91bc98d901"},"locale":"en_US","setup":{"isSiteKitConnected":true,"isResettable":true,"isAuthenticated":true,"requiredScopes":["openid","https:\/\/www.googleapis.com\/auth\/userinfo.profile","https:\/\/www.googleapis.com\/auth\/userinfo.email","https:\/\/www.googleapis.com\/auth\/siteverification","https:\/\/www.googleapis.com\/auth\/webmasters","https:\/\/www.googleapis.com\/auth\/analytics.readonly"],"grantedScopes":["https:\/\/www.googleapis.com\/auth\/webmasters","https:\/\/www.googleapis.com\/auth\/analytics.readonly","https:\/\/www.googleapis.com\/auth\/userinfo.email","https:\/\/www.googleapis.com\/auth\/userinfo.profile","openid","https:\/\/www.googleapis.com\/auth\/siteverification","https:\/\/www.googleapis.com\/auth\/analytics.provision","https:\/\/www.googleapis.com\/auth\/analytics.edit"],"unsatisfiedScopes":[],"needReauthenticate":false,"isVerified":true,"hasSearchConsoleProperty":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-base-fe725a7fd69a3ac87902.js' id='googlesitekit-base-js'></script>
+<script type='text/javascript' id='googlesitekit-apifetch-data-js-extra'>
+/* <![CDATA[ */
+var _googlesitekitAPIFetchData = {"nonce":"60c48da01b","nonceEndpoint":"https:\/\/tarotpsychic.club\/wp-admin\/admin-ajax.php?action=rest-nonce","preloadedData":{"\/google-site-kit\/v1\/core\/site\/data\/connection":{"body":{"connected":true,"resettable":true,"setupCompleted":true,"hasConnectedAdmins":true,"hasMultipleAdmins":false,"ownerID":1},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}},"\/google-site-kit\/v1\/core\/user\/data\/authentication":{"body":{"authenticated":true,"requiredScopes":["openid","https:\/\/www.googleapis.com\/auth\/userinfo.profile","https:\/\/www.googleapis.com\/auth\/userinfo.email","https:\/\/www.googleapis.com\/auth\/siteverification","https:\/\/www.googleapis.com\/auth\/webmasters","https:\/\/www.googleapis.com\/auth\/analytics.readonly"],"grantedScopes":["https:\/\/www.googleapis.com\/auth\/webmasters","https:\/\/www.googleapis.com\/auth\/analytics.readonly","https:\/\/www.googleapis.com\/auth\/userinfo.email","https:\/\/www.googleapis.com\/auth\/userinfo.profile","openid","https:\/\/www.googleapis.com\/auth\/siteverification","https:\/\/www.googleapis.com\/auth\/analytics.provision","https:\/\/www.googleapis.com\/auth\/analytics.edit"],"unsatisfiedScopes":[],"needsReauthentication":false,"disconnectedReason":"","connectedProxyURL":"https:\/\/tarotpsychic.club\/"},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}},"\/google-site-kit\/v1\/core\/modules\/data\/list":{"body":[{"slug":"site-verification","name":"Site Verification","description":"Google Site Verification allows you to manage ownership of your site.","homepage":"https:\/\/www.google.com\/webmasters\/verification\/home","internal":true,"order":0,"forceActive":true,"shareable":false,"recoverable":false,"active":true,"connected":true,"dependencies":[],"dependants":[],"owner":null},{"slug":"search-console","name":"Search Console","description":"Google Search Console and helps you understand how Google views your site and optimize its performance in search results.","homepage":"https:\/\/search.google.com\/search-console","internal":false,"order":1,"forceActive":true,"shareable":false,"recoverable":false,"active":true,"connected":true,"dependencies":[],"dependants":[],"owner":{"id":1,"login":"644648334@qq.com"}},{"slug":"adsense","name":"AdSense","description":"Earn money by placing ads on your website. It\u2019s free and easy.","homepage":"https:\/\/www.google.com\/adsense\/start?source=site-kit&url=https:\/\/tarotpsychic.club","internal":false,"order":2,"forceActive":false,"shareable":false,"recoverable":false,"active":false,"connected":false,"dependencies":[],"dependants":[],"owner":null},{"slug":"analytics","name":"Analytics","description":"Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place.","homepage":"https:\/\/analytics.google.com\/analytics\/web","internal":false,"order":3,"forceActive":false,"shareable":false,"recoverable":false,"active":true,"connected":true,"dependencies":[],"dependants":["analytics-4","optimize"],"owner":{"id":1,"login":"644648334@qq.com"}},{"slug":"analytics-4","name":"Analytics 4 (Alpha)","description":"Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place.","homepage":"https:\/\/analytics.google.com\/analytics\/web","internal":true,"order":3,"forceActive":false,"shareable":false,"recoverable":false,"active":true,"connected":true,"dependencies":["analytics"],"dependants":[],"owner":{"id":1,"login":"644648334@qq.com"}},{"slug":"pagespeed-insights","name":"PageSpeed Insights","description":"Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA","homepage":"https:\/\/pagespeed.web.dev","internal":false,"order":4,"forceActive":false,"shareable":false,"recoverable":false,"active":true,"connected":true,"dependencies":[],"dependants":[],"owner":null},{"slug":"optimize","name":"Optimize","description":"Create free A\/B tests that help you drive metric-based design solutions to your site","homepage":"https:\/\/optimize.google.com\/optimize\/home\/","internal":false,"order":5,"forceActive":false,"shareable":false,"recoverable":false,"active":false,"connected":false,"dependencies":["analytics"],"dependants":[],"owner":null},{"slug":"tagmanager","name":"Tag Manager","description":"Tag Manager creates an easy to manage way to create tags on your site without updating code","homepage":"https:\/\/tagmanager.google.com\/","internal":false,"order":6,"forceActive":false,"shareable":false,"recoverable":false,"active":false,"connected":false,"dependencies":[],"dependants":[],"owner":null}],"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}},"\/google-site-kit\/v1\/modules\/search-console\/data\/settings":{"body":{"propertyID":"https:\/\/tarotpsychic.club\/","ownerID":1},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET, POST, PUT, PATCH"}},"\/google-site-kit\/v1\/modules\/analytics\/data\/settings":{"body":{"ownerID":1,"accountID":"245249684","adsenseLinked":false,"adsConversionID":"","anonymizeIP":true,"internalWebPropertyID":"336930850","profileID":"277743061","propertyID":"UA-245249684-1","trackingDisabled":["loggedinUsers"],"useSnippet":true,"canUseSnippet":true},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET, POST, PUT, PATCH"}},"\/google-site-kit\/v1\/modules\/analytics-4\/data\/settings":{"body":{"ownerID":1,"propertyID":"336917171","webDataStreamID":"4139335222","measurementID":"G-WBD9YRK97D","useSnippet":true},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET, POST, PUT, PATCH"}},"\/google-site-kit\/v1\/modules\/pagespeed-insights\/data\/settings":{"body":{"ownerID":0},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET, POST, PUT, PATCH"}},"\/google-site-kit\/v1\/core\/user\/data\/dismissed-items":{"body":[],"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}},"\/google-site-kit\/v1\/core\/user\/data\/permissions":{"body":{"googlesitekit_authenticate":true,"googlesitekit_setup":true,"googlesitekit_view_posts_insights":true,"googlesitekit_view_dashboard":true,"googlesitekit_manage_options":true,"googlesitekit_view_splash":true,"googlesitekit_view_authenticated_dashboard":true,"googlesitekit_view_wp_dashboard_widget":true,"googlesitekit_view_admin_bar_menu":true},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}},"\/google-site-kit\/v1\/core\/user\/data\/survey-timeouts":{"body":[],"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}},"\/google-site-kit\/v1\/core\/user\/data\/tracking":{"body":{"enabled":true},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET, POST"}},"\/google-site-kit\/v1\/core\/site\/data\/admin-bar-settings":{"body":{"enabled":true},"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET, POST"}},"\/google-site-kit\/v1\/core\/user\/data\/dismissed-tours":{"body":[],"headers":{"X-Content-Type-Options":"nosniff","X-XSS-Protection":"1; mode=block","Allow":"GET"}}},"rootURL":"https:\/\/tarotpsychic.club\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-api-6e559aa8410ea6a8488c.js' id='googlesitekit-api-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-data-eb88be66b923951a2982.js' id='googlesitekit-data-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-datastore-forms-d9c51f187310c3045107.js' id='googlesitekit-datastore-forms-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-datastore-location-4887cef412b4b22fee5d.js' id='googlesitekit-datastore-location-js'></script>
+<script type='text/javascript' id='googlesitekit-entity-data-js-extra'>
+/* <![CDATA[ */
+var _googlesitekitEntityData = {"currentEntityURL":"https:\/\/tarotpsychic.club\/soledadinstall\/","currentEntityType":"post","currentEntityTitle":"Soledad Install","currentEntityID":1741};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-datastore-site-3088fa45685fa6a62193.js' id='googlesitekit-datastore-site-js'></script>
+<script type='text/javascript' id='googlesitekit-user-data-js-extra'>
+/* <![CDATA[ */
+var _googlesitekitUserData = {"user":{"id":1,"email":"jeff554545@gmail.com","name":"THORPE MATTHEW","picture":"https:\/\/lh3.googleusercontent.com\/a\/ALm5wu0GDMRo0fUjl2_XKDhefNpOjba_ATTAMgufKWtZ=s100"},"connectURL":"https:\/\/tarotpsychic.club\/wp-admin\/index.php?action=googlesitekit_connect&nonce=721beb8ea0","hasMultipleAdmins":false,"initialVersion":"1.83.0","userInputState":"missing","verified":true};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-datastore-user-64932f736858204f43ca.js' id='googlesitekit-datastore-user-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-datastore-ui-20a3179becb40de94f40.js' id='googlesitekit-datastore-ui-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-widgets-a3b50a23aaab496dfb37.js' id='googlesitekit-widgets-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-adminbar-5f264d8461e993ac3dcd.js' id='googlesitekit-adminbar-js' defer></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-cd221b46184aeed27ed5.js' id='googlesitekit-modules-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-search-console-b481361f52a83a18e8cf.js' id='googlesitekit-modules-search-console-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-adsense-8696b9775f2e275b245f.js' id='googlesitekit-modules-adsense-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-analytics-683a3443d96cec2e4536.js' id='googlesitekit-modules-analytics-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-analytics-4-9d5e917f0b310e2f5a9e.js' id='googlesitekit-modules-analytics-4-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-pagespeed-insights-0e3344a9ee025f1401d3.js' id='googlesitekit-modules-pagespeed-insights-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-optimize-15770cdbe60426e27e17.js' id='googlesitekit-modules-optimize-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-modules-tagmanager-b5e4591052aa20c1c034.js' id='googlesitekit-modules-tagmanager-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.13.1' id='jquery-ui-tooltip-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.1' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/button.min.js?ver=1.13.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.1' id='jquery-ui-droppable-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.13.1' id='jquery-ui-progressbar-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/scripts/scripts.js?ver=1.0' id='pluginops-landingpage-scripts-libs-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/scripts/owl-carousel/owl.carousel.js?ver=1.0' id='pluginops-landingpage-script-files_0-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/page-builder-add/js/fa.js?ver=1.0' id='pluginops-landingpage-script-files_1-js'></script>
+<script type='text/javascript' src='https://tarotpsychic.club/wp-content/plugins/page-builder-add/public/scripts/scripts.js?ver=1.0' id='pluginops-landingpage-scripts-inline-js-footer-js'></script>
+<script type='text/javascript' id='pluginops-landingpage-scripts-inline-js-footer-js-after'>
+
+
+    (function($) {
+
+      $(document).ready(function(){ 
+
+        jQuery('#pb_testimonialCarousel_442206').owlCarousel({items:1,   singleItem: false,  autoPlay : false,   stopOnHover : true,   navigation: false ,    paginationSpeed : 300,   goToFirstSpeed : 300,    autoHeight : true,    slideSpeed : 3000,   transitionStyle: 'fade',    pagination : true,   paginationNumbers: false,   navigationText : ['<span class="dashicons dashicons-arrow-left-alt2" > </span>', '<span class="dashicons dashicons-arrow-right-alt2" > </span>'], theme: 'pbOwl-theme', baseClass: 'pbOwl-carousel' ,  });
+
+        });  
+
+    })(jQuery); 
+
+  
+
+                      jQuery('.btn-47200').mouseenter(function(){
+                        jQuery('.btnIcon-47200').addClass('animated shake').one('animationend oAnimationEnd mozAnimationEnd webkitAnimationEnd',function(){ 
+                           jQuery('.btnIcon-47200').removeClass('animated shake') 
+                          });
+                     });
+                    
+
+    jQuery(document).ready(function(){
+
+      jQuery(".pb_img_thumbnail").on("click",function(){
+        var clikedElID = jQuery(this).attr("id");
+        jQuery("#pb_lightbox"+clikedElID).css("display","block");
+      });
+
+      jQuery(".pb_single_img_lightbox").on("click",function(){
+        jQuery(this).css("display","none");
+      });
+
+      jQuery(window).scroll();
+
+    });
+
+
+    (function($) {
+
+      /**
+       * Copyright 2012, Digital Fusion
+       * Licensed under the MIT license.
+       * http://teamdf.com/jquery-plugins/license/
+       *
+       * @author Sam Sehnert
+       * @desc A small plugin that checks whether elements are within
+       *     the user visible viewport of a web browser.
+       *     only accounts for vertical position, not horizontal.
+       */
+
+      $.fn.visible = function(partial) {
+        
+          var $t            = $(this),
+              $w            = $(window),
+              viewTop       = $w.scrollTop(),
+              viewBottom    = viewTop + $w.height(),
+              _top          = $t.offset().top,
+              _bottom       = _top + $t.height(),
+              compareTop    = partial === true ? _bottom : _top,
+              compareBottom = partial === true ? _top : _bottom;
+        
+        return ((compareBottom <= viewBottom) && (compareTop >= viewTop));
+
+      };
+
+      jQuery(document).on("click", 'a[href^="#"]', function (event) {
+        event.preventDefault();
+        
+        var clickedLinkElAttr = jQuery(this ).attr("href");
+        if(typeof(jQuery(clickedLinkElAttr).offset() ) != "undefined"){
+          jQuery("html, body").animate({
+              scrollTop: jQuery(jQuery.attr(this, "href")).offset().top
+          }, 500);
+        }
+          
+      });
+      
+    })(jQuery);
+
+  
+    if(typeof pluginOpsCheckElViewFrame != "function" ){
+      function pluginOpsCheckElViewFrame (el) {
+
+        if (typeof jQuery === "function" && el instanceof jQuery) {
+            el = el[0];
+        }
+
+        if( typeof(el.getBoundingClientRect) == "function"  ){
+          var rect = el.getBoundingClientRect();
+          windowInnerHeight = window.innerHeight;
+          if(rect.height >= windowInnerHeight){
+            rect.height = windowInnerHeight - 50;
+          }
+          docClientHeight = document.documentElement.clientHeight;
+          if( rect.top >= 0 &&
+              rect.left >= 0 &&
+              rect.bottom <= (windowInnerHeight) && 
+              rect.right <= (window.innerWidth || document.documentElement.clientWidth) ) {
+                return "InView";
+              }else{
+                return "NotInView";
+              }
+        }else{
+          return "Function didnt work";
+        }
+
+      }
+    }
+      
+
+     jQuery(window).scroll();
+
+  
+</script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://tarotpsychic.club/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/support/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://tarotpsychic.club/wp-admin/'>Tarotpsychic</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-sg-central-dashboard'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/admin.php?page=custom-dashboard.php'>Dashboard</a></li><li id='wp-admin-bar-themes'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/nav-menus.php'>Menus</a></li></ul><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-soledad-dashboard'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/admin.php?page=soledad_dashboard_welcome'>Soledad</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://tarotpsychic.club/wp-admin/customize.php?url=https%3A%2F%2Ftarotpsychic.club%2Fsoledadinstall%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">4</span><span class="screen-reader-text updates-available-text">4 updates available</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://tarotpsychic.club/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-insertpostads'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=insertpostads'>Post Advert</a></li><li id='wp-admin-bar-new-ulpb_post'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=ulpb_post'>Landing Page</a></li><li id='wp-admin-bar-new-penci_builder'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=penci_builder'>Header Builder</a></li><li id='wp-admin-bar-new-archive-template'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=archive-template'>Archive Template</a></li><li id='wp-admin-bar-new-custom-post-template'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=custom-post-template'>Post Template</a></li><li id='wp-admin-bar-new-penci-block'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post-new.php?post_type=penci-block'>Block</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/post.php?post=1741&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-google-site-kit' class="menupop googlesitekit-wp-adminbar"><a class='ab-item' href='#'><span class="googlesitekit-wp-adminbar__icon"></span> <span class="googlesitekit-wp-adminbar__label">Site Kit</span></a>		<div class="googlesitekit-plugin ab-sub-wrapper">
+						<noscript>
+				<div class="googlesitekit-noscript notice notice-warning">
+					<div class="mdc-layout-grid">
+						<div class="mdc-layout-grid__inner">
+							<div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12">
+								<p class="googlesitekit-noscript__text">
+									The Site Kit by Google plugin requires JavaScript to be enabled in your browser.								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</noscript>
+		
+			<div id="js-googlesitekit-adminbar" class="googlesitekit-adminbar">
+
+				
+				<section id="js-googlesitekit-adminbar-modules" class="googlesitekit-adminbar-modules"></section>
+
+							</div>
+		</div>
+		</li><li id='wp-admin-bar-SG_CachePress_Supercacher_Purge' class="sg-cachepress-admin-bar-purge"><a class='ab-item' href='https://tarotpsychic.club/wp-admin/admin-ajax.php?action=admin_bar_purge_cache&#038;_wpnonce=5cfa628615'>Purge SG Cache</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://tarotpsychic.club/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://tarotpsychic.club/wp-admin/profile.php'>Howdy, <span class="display-name">THORPE MATTHEW</span><img alt='' src='https://secure.gravatar.com/avatar/0be64395cb1a900caf89eff615e84c8c?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0be64395cb1a900caf89eff615e84c8c?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://tarotpsychic.club/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/0be64395cb1a900caf89eff615e84c8c?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0be64395cb1a900caf89eff615e84c8c?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>THORPE MATTHEW</span><span class='username'>644648334@qq.com</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://tarotpsychic.club/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://tarotpsychic.club/wp-login.php?action=logout&#038;_wpnonce=70f709f61f'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://tarotpsychic.club/wp-login.php?action=logout&#038;_wpnonce=70f709f61f">Log Out</a>
+					</div>
+
+		
+
+ <!--- PluginOps Type - 0 --->
+
+
+
+</body>
+
+
+<!-- <style type="text/css">
+  </style> -->
+
+
+</html>
